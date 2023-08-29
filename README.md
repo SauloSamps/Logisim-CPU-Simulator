@@ -2,11 +2,11 @@
 A 8 bit CPU project made using Logisim with a simple instruction set (add, halt, move, read, write).
 
 
-##Requirements
+## Requirements
 * To run the simulation you need logisim version 2.7.1 (might work on newer versions)
 * requires java
 
-##How to run
+## How to run
 * Run logisim
 * Select file>open and then select the CPU.circ file
 * That's it!
