@@ -20,5 +20,7 @@ I added a RAM file if you wish to quickly load the RAM with the values 1, 2 , 3 
 
 You can add custom values and instructions if you desire to run on the computer. The txt file "Instruction IDs" contains the opcodes for the instructions.
 
+This project was made in 2021.
+
 
 
