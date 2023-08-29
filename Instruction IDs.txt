@@ -1,0 +1,6 @@
+ADD --------- 1001
+HLT --------- 1000
+MOV RX,RY --- 1011
+MOV RX,RA --- 1100
+RDM Rx,mem -- 1101
+STR mem,RX -- 1110
